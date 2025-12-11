@@ -35,3 +35,11 @@ p {
     overflow-wrap: anywhere;
     text-align: center;
 }
+
+.right-star-output{
+       text-align: start; 
+}
+
+.invert-right-output {
+    text-align: start;
+}
